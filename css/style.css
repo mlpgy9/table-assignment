@@ -7,3 +7,19 @@ in your index.html and script.js files. */
 .chart {
   height: 500px;
 }
+
+.amount{
+text-align: right;
+}
+
+table{
+font-family: Tahoma, sans serif;
+}
+
+td{
+border-style: collapse border;
+}
+
+tbody{
+border-style: collapse border;
+}
